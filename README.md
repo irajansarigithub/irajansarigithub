@@ -9,22 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
-	
-👨‍💻 Lead NLP Developer at HandyHelps
-
-🔥 NLP & VUI Consultant and Web Developer 
-	
-💰 RISING TALENT at UPWORK ✅
-
-💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
-	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
-
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
-
-📓 I’m currently learning LLM's and Genrative AI... 😭
-
+🔥  Web Developer 
 📧 irajansari788@gmail.com
 
 🎨 Portfolio: 
@@ -74,9 +59,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:irajansari788@gmail.com"><img src="https://img.shields.io/badge/-irajansari788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
