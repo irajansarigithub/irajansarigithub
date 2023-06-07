@@ -26,7 +26,7 @@
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
 	<td align='center' width="200">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABootstrap_logo.svg&psig=AOvVaw1WdZy1oawOnDF6Gn9l1mz7&ust=1686205787455000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCN-prEsP8CFQAAAAAdAAAAABAE" width="80">
+        <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="80">
     </td>
      <td align='center' width="200">
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="100">
