@@ -17,7 +17,7 @@
 <table width="100">
 <tr>
  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
@@ -29,7 +29,7 @@
         <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="80">
     </td>
      <td align='center' width="200">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="100">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      
 </tr>
