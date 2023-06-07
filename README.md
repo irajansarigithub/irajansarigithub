@@ -24,11 +24,11 @@
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
 
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     
- <td align='center'>
+ <td align='center' width="200">
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      
