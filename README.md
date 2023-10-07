@@ -29,7 +29,7 @@
         <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="100">
     </td>
      <td align='center' width="200">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://avatars.githubusercontent.com/u/8170782?s=280&v=4" width="80">
     </td>
      
 </tr>
