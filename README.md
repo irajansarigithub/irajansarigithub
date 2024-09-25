@@ -10,7 +10,8 @@
 
 📧 irajansari788@gmail.com
 
-🔗 LinkedIn Profile: www.linkedin.com/in/iraj-ansari-78ia
+🌟 Connect with Me:
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/iraj-ansari-78ia)
 
 🎨 Portfolio: 
  
