@@ -10,6 +10,8 @@
 
 📧 irajansari788@gmail.com
 
+🔗 LinkedIn Profile: www.linkedin.com/in/iraj-ansari-78ia
+
 🎨 Portfolio: 
  
 <h2>Tech Stack</h2>
